@@ -1,0 +1,13 @@
+*.sh
+*_test_*
+*.zip
+*cache*
+*unittest*
+*logs*
+*.hdf5
+*.h5
+tests
+*.ipynb
+*.png
+*.jpg
+*.json
